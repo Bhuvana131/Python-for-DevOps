@@ -1,4 +1,5 @@
 
+
 # Python for DevOps 🚀
 
 This repository contains Python practice programs and exercises that I am learning as part of my DevOps and programming journey.
@@ -12,15 +13,23 @@ This repository contains Python practice programs and exercises that I am learni
 - Largest of 3 Numbers
 - Positive or Negative Number
 - Sum of Digits
+- Count Digits in a Number
+- Leap Year Check
 
 ### Number Programs
 - Palindrome Number
 - Prime Number Check
 - Factorial of a Number
 - Fibonacci Series
+- Reverse a Number
+- Armstrong Number
 
 ### String Programs
 - Reverse a String
+- Palindrome String
+
+### List Programs
+- Largest Element in a List
 
 ---
 
