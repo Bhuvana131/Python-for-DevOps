@@ -15,6 +15,10 @@ This repository contains Python practice programs and exercises that I am learni
 - Sum of Digits
 - Count Digits in a Number
 - Leap Year Check
+- Swap Two Numbers
+- Check Vowel or Consonant
+
+---
 
 ### Number Programs
 - Palindrome Number
@@ -24,12 +28,17 @@ This repository contains Python practice programs and exercises that I am learni
 - Reverse a Number
 - Armstrong Number
 
+---
+
 ### String Programs
 - Reverse a String
 - Palindrome String
 
+---
+
 ### List Programs
 - Largest Element in a List
+- Smallest Number in a List
 
 ---
 
