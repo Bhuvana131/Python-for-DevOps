@@ -1,5 +1,4 @@
 
-
 # Python for DevOps 🚀
 
 This repository contains Python practice programs and exercises that I am learning as part of my DevOps and programming journey.
@@ -17,6 +16,8 @@ This repository contains Python practice programs and exercises that I am learni
 - Leap Year Check
 - Swap Two Numbers
 - Check Vowel or Consonant
+- Multiplication Table
+- Find Average of Numbers
 
 ---
 
@@ -27,6 +28,7 @@ This repository contains Python practice programs and exercises that I am learni
 - Fibonacci Series
 - Reverse a Number
 - Armstrong Number
+- Perfect Number Check
 
 ---
 
