@@ -1,4 +1,5 @@
 
+
 # Python for DevOps 🚀
 
 This repository contains Python practice programs and exercises that I am learning as part of my DevOps and programming journey.
@@ -18,6 +19,11 @@ This repository contains Python practice programs and exercises that I am learni
 - Check Vowel or Consonant
 - Multiplication Table
 - Find Average of Numbers
+- Find Sum of Natural Numbers
+- Find Maximum of Two Numbers
+- Check Number is Divisible by 5 and 11
+- Calculate Simple Interest
+- Convert Celsius to Fahrenheit
 
 ---
 
@@ -41,6 +47,7 @@ This repository contains Python practice programs and exercises that I am learni
 ### List Programs
 - Largest Element in a List
 - Smallest Number in a List
+- Check Even Numbers in a List
 
 ---
 
