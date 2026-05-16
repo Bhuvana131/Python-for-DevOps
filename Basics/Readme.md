@@ -24,6 +24,8 @@ This repository contains Python practice programs and exercises that I am learni
 - Check Number is Divisible by 5 and 11
 - Calculate Simple Interest
 - Convert Celsius to Fahrenheit
+- Check Whether a Character is Alphabet or Not
+- Find Square and Cube of a Number
 
 ---
 
@@ -41,6 +43,7 @@ This repository contains Python practice programs and exercises that I am learni
 ### String Programs
 - Reverse a String
 - Palindrome String
+- Count Vowels in a String
 
 ---
 
